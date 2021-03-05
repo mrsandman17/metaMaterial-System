@@ -11,7 +11,7 @@ You can download the entire repository by clicking "Code" on the top right of th
 #### Using the network analyser GUI
 First connect your board for a S paramaters measurement. Like this:
 ![Alt text](instructionPics/s_params_system_1.jpg?raw=true "Title")
-We will test the system using the netowrk analyser GUI by performing a measurement of S11 Parameter.
+We will test the system using the network analyser GUI by performing a measurement of S11 Parameter.
 By using the program "Network Analyser" you can perform a simple measurement.
 In order to perform the measurement:
 1. Start the program "Network Analyser"
